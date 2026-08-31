@@ -45,7 +45,7 @@ env:
   ARCH: arm64
   SUBARCH: arm64
   KERNEL_URL: https://github.com/rebbegeje/kernel_xiaomi_lavender_predator.git
-  KERNEL_BRANCH: oldcam
+  KERNEL_BRANCH: oldcam-hmp
   DEFCONFIG: lavender-perf_defconfig
   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
