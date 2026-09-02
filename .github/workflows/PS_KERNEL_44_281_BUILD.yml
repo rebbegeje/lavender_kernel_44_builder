@@ -1,4 +1,4 @@
-name: 🛠️ PREDATOR STORMBREAKER KERNEL 4.4.281
+name: 4.4.281-Predator
 
 on:
   workflow_dispatch:
