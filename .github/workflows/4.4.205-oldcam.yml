@@ -1,4 +1,4 @@
-name: 4.4.205-Predator
+name: 4.4.205-oldcam
 
 on:
   workflow_dispatch:
